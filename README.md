@@ -20,3 +20,7 @@ Pigmented benign keratosis
 Seborrheic keratosis
 Squamous cell carcinoma
 Vascular lesion
+
+### Data Sample Visulisation
+
+![image](https://github.com/user-attachments/assets/686153f8-b4cd-439b-b48e-8a5d4a69069e)
